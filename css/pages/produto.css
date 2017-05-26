@@ -1,0 +1,19 @@
+@import url('../styles.css');
+.page-produto{
+    background: url(../../images/background-produto.jpg) no-repeat;
+}
+#download{
+    background-color: #f9f6f1;
+}
+#download .btn{
+    font-size:20px;
+}
+#funcionalidades .material-icons{
+    float:left;
+    height: 200px;
+    font-size: 60px;
+    margin-right: 20px;
+}
+#funcionalidades h3{
+    margin-top:0;
+}
